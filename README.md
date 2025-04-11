@@ -3,12 +3,12 @@
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabriel.ph.prado@gmail.com)
 
 ---
-## Interested in:
+## 🤓 Interested in:
 * Machine/Deep learning;
 * Quantum Computing;
 * Cloud.
 
-## 🚀 Technologies I Use
+## 🚀 Technologies
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

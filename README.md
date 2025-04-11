@@ -7,7 +7,7 @@
 ## 🤓 Interested in:
 * Machine/Deep learning;
 * Quantum Computing;
-* Cloud.
+* Cloud Computing.
 
 ## 🚀 Technologies
 

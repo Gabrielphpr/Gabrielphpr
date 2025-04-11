@@ -16,7 +16,7 @@
 
 ## 🚀 Technologies
 <!-- Tamanho padrão (ajuste a largura com HTML se necessário) -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" />
@@ -26,21 +26,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="RISC-V" width="40" />
   <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="Quartus" width="40" />
 </div>
-
-
-
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Assembly (RISC-V)](https://img.shields.io/badge/Assembly%20(RISC--V)-000000?style=for-the-badge)
-![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 <!---
 Gabrielphpr/Gabrielphpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

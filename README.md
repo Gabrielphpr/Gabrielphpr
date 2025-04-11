@@ -17,15 +17,14 @@
 ## 🚀 Technologies
 <!-- Tamanho padrão (ajuste a largura com HTML se necessário) -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://simpleicons.org/icons/markdown.svg" alt="Markdown" width="40" />
-  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" />
-  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" />
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" />
-  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="40" />
-  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="40" />
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" />
-  <img src="https://simpleicons.org/icons/riscv.svg" alt="RISC-V" width="40" />
-  <img src="https://simpleicons.org/icons/intel.svg" alt="Quartus" width="40" />
+  <img src="https://worldvectorlogo.com/logo/c-1" alt="C" width="40" />
+  <img src="https://worldvectorlogo.com/logo/java-14" alt="Java" width="40" />
+  <img src="https://worldvectorlogo.com/logo/python-5" alt="Python" width="40" />
+  <img src="https://worldvectorlogo.com/logo/html-1" alt="HTML" width="40" />
+  <img src="https://worldvectorlogo.com/logo/css-3" alt="CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="[https://simpleicons.org/icons/riscv.svg](https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg)" alt="RISC-V" width="40" />
+  <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="Quartus" width="40" />
 </div>
 
 

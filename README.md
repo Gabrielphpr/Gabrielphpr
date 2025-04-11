@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=7AF700&background=040B01&random=false&width=435&separator=%3C&lines=Hello+World+!%3CGabriel+here+...%3CWelcome+to+my+Github)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-phelippe-prado-3a4a49228/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabriel.ph.prado@gmail.com)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@manogabs_-red?style=for-the-badge&logo=youtube)](https://youtube.com/@manogabs_?si=Nb3BDMV24c388UNs)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="22">](https://youtube.com/@manogabs_?si=Nb3BDMV24c388UNs)
 
 ---
 ## 🤓 Interested in:

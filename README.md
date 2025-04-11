@@ -1,4 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=7AF700&background=040B01&random=false&width=435&separator=%3C&lines=Hello+World+!%3CGabriel+here+...%3CWelcome+to+my+Github)](https://git.io/typing-svg)
+<div style="text-align: center;">
+   # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=7AF700&background=040B01&random=false&width=435&separator=%3C&lines=Hello+World+!%3CGabriel+here+...%3CWelcome+to+my+Github)](https://git.io/typing-svg)
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-phelippe-prado-3a4a49228/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabriel.ph.prado@gmail.com)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="22">](https://youtube.com/@manogabs_?si=Nb3BDMV24c388UNs)
@@ -10,6 +13,20 @@
 * Cloud Computing.
 
 ## 🚀 Technologies
+<!-- Tamanho padrão (ajuste a largura com HTML se necessário) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" title="Markdown" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+<!-- Outras logos -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+<!-- Logos menos comuns -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/RISC-V-logo.svg" width="50" title="RISC-V" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg" width="50" title="Intel (Quartus)" />
+
+
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 

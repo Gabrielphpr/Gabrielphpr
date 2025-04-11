@@ -17,13 +17,13 @@
 ## 🚀 Technologies
 <!-- Tamanho padrão (ajuste a largura com HTML se necessário) -->
 <div style="display: flex; justify-content: space-evenly;">
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="RISC-V" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" style="margin-right: 30px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="40" style="margin-right: 30px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" style="margin-right: 30px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" style="margin-right: 30px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" style="margin-right: 30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin-right: 30px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="RISC-V" width="40" style="margin-right: 30px;" />
   <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" alt="Quartus" width="40" />
 </div>
 

@@ -2,8 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-phelippe-prado-3a4a49228/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabriel.ph.prado@gmail.com)
 
-![Visitors](https://count.getloli.com/get/@joaodasilva?theme=sunset)
-
 ---
 ## Interested in:
 * Machine/Deep learning;
@@ -18,14 +16,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Assembly (RISC-V)](https://img.shields.io/badge/Assembly%20(RISC--V)-000000?style=for-the-badge)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-<!-- Visual logos -->
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/RISC-V_Logo.svg" alt="RISC-V Logo" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Intel_logo_%282020%29.svg/512px-Intel_logo_%282020%29.svg.png" alt="Intel / Quartus Logo" height="30" />
-</p>
-
 
 <!---
 Gabrielphpr/Gabrielphpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

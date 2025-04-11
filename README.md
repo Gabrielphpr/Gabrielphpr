@@ -16,13 +16,11 @@
 
 ## 🚀 Technologies
 <!-- Tamanho padrão (ajuste a largura com HTML se necessário) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" title="Markdown" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" title="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" title="Markdown" /> <p>   </p> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" title="C" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
 <!-- Outras logos -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
 <!-- Logos menos comuns --> 
-<img src="https://commons.wikimedia.org/wiki/File:RISC-V-logo-square.svg" width="50" title="RISC-V" /> <img src="https://usoftly.ir/wp-content/uploads/2022/04/Intel-Quartus-Prime-Pro.png" width="50" title="Intel (Quartus)" />
+<img src="https://commons.wikimedia.org/wiki/File:RISC-V-logo-square.svg" width="50" title="RISC-V" /> <p>   </p> <img src="https://usoftly.ir/wp-content/uploads/2022/04/Intel-Quartus-Prime-Pro.png" width="50" title="Intel (Quartus)" />
 
 
 

@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=7AF700&background=040B01&random=false&width=435&separator=%3C&lines=Hello+World+!%3CGabriel+here+...%3CWelcome+to+my+Github" alt="Typing SVG">
   </a>

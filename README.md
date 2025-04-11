@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=7AF700&background=040B01&random=false&width=435&separator=%3C&lines=Hello+World+!%3CWelcome+to+my+Github+!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=7AF700&background=040B01&random=false&width=435&separator=%3C&lines=Hello+World+!%3CGabriel+here+!%3CWelcome+to+my+Github+!)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-phelippe-prado-3a4a49228/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabriel.ph.prado@gmail.com)
 

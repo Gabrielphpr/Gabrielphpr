@@ -16,7 +16,7 @@
 
 ## 🚀 Technologies
 <!-- Tamanho padrão (ajuste a largura com HTML se necessário) -->
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; justify-content: space-evenly;">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" />

@@ -16,11 +16,17 @@
 
 ## 🚀 Technologies
 <!-- Tamanho padrão (ajuste a largura com HTML se necessário) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" title="Markdown" /> <p>   </p> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" title="C" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
-<!-- Outras logos -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" /> <p>   </p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
-<!-- Logos menos comuns --> 
-<img src="https://commons.wikimedia.org/wiki/File:RISC-V-logo-square.svg" width="50" title="RISC-V" /> <p>   </p> <img src="https://usoftly.ir/wp-content/uploads/2022/04/Intel-Quartus-Prime-Pro.png" width="50" title="Intel (Quartus)" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://simpleicons.org/icons/markdown.svg" alt="Markdown" width="40" />
+  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" />
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" />
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" />
+  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="40" />
+  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="40" />
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" />
+  <img src="https://simpleicons.org/icons/riscv.svg" alt="RISC-V" width="40" />
+  <img src="https://simpleicons.org/icons/intel.svg" alt="Quartus" width="40" />
+</div>
 
 
 
